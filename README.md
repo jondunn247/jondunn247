@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build, Secure, and Protect a Web Application (Azure)</b> 
-  - [Build, secure, and protect a cloud application that hosts your own cyber blog](https://github.com/jondunn247/Web-Application-Technical-Brief)
+  - [Build, secure, and protect a cloud application that hosts your own cyber blog](https://github.com/jondunn247/WebApplicationLab)
 - <b>conducted Penetration Test On Fictional Organization's Web Application (Linux servers, and Windows servers)</b>
   - [Penetration Testing Summary Report](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
