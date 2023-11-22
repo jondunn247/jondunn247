@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build, Secure, and Protect a Web Application (Azure)</b> 
-  - [Build, secure, and protect a cloud application that hosts your own cyber blog](https://github.com/jondunn247/WebApplicationLab)
+  - [Build, secure, and protect a cloud application that hosts my own cyber blog](https://github.com/jondunn247/WebApplicationLab)
 - <b>Penetration Test On Fictional Organization's Web Application (Linux servers, and Windows servers)</b>
   - [Penetration Testing Summary Report](https://github.com/jondunn247/PenetrationTestReport) </b></i>
 - <b>Building a Security Monitoring Environment(Splunk)</b>
