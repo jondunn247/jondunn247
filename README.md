@@ -5,7 +5,7 @@
 - <b>Build, Secure, and Protect a Web Application (Azure)</b> 
   - [Build, secure, and protect a cloud application that hosts your own cyber blog](https://github.com/jondunn247/WebApplicationLab)
 - <b>Penetration Test On Fictional Organization's Web Application (Linux servers, and Windows servers)</b>
-  - [Penetration Testing Summary Report](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Penetration Testing Summary Report](https://github.com/jondunn247/PenetrationTestReport) </b></i>
 - <b>Building a Security Monitoring Environment(Splunk)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
