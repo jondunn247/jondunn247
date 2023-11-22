@@ -7,7 +7,7 @@
 - <b>Penetration Test On Fictional Organization's Web Application (Linux servers, and Windows servers)</b>
   - [Penetration Testing Summary Report](https://github.com/jondunn247/PenetrationTestReport) </b></i>
 - <b>Building a Security Monitoring Environment(Splunk)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment)
+  - [Tested Environment Against Simulated Attacks](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment)
   
 
 <h2>📺 Popular YouTube Videos</h2>
