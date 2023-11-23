@@ -26,9 +26,9 @@
 
 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jondunn247&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jondunn247&show_icons=true&theme=radical" />
 
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondunn247&layout=compact">
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondunn247&layout=compact">
 
 
 
