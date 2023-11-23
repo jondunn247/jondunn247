@@ -1,5 +1,4 @@
 <h1>Hi, I'm Jonathan! <br/>Cybersecurity Professional</a>
-  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build, Secure, and Protect a Web Application (Azure)</b> 
@@ -9,6 +8,7 @@
   - [Penetration Testing Summary Report](https://github.com/jondunn247/PenetrationTestReport/blob/main/Rekall%20Penetration%20Test%20Report.pdf) </b></i>
 - <b>Building a Security Monitoring Environment(Splunk)</b>
   - [Tested Environment Against Simulated Attacks](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment)
+  - [Apache and Windows Logs Analysis Report](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment/blob/main/Apache%20and%20Windows%20Logs%20Analysis.pdf)
   
 
 <h2>📺 Popular YouTube Videos</h2>
