@@ -9,7 +9,10 @@
 - <b>Building a Security Monitoring Environment(Splunk)</b>
   - [Tested Environment Against Simulated Attacks](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment)
   - [Apache and Windows Logs Analysis Report](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment/blob/main/Apache%20and%20Windows%20Logs%20Analysis.pdf)
-  
+
+  ![JonDunn's GitHub stats]image align=(https://github-readme-stats.vercel.app/api?username=jondunn247&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jondunn247&layout=compact)
 
 <h2>📺 Popular YouTube Videos</h2>
 
