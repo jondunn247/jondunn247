@@ -10,7 +10,7 @@
   - [Tested Environment Against Simulated Attacks](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment)
   - [Apache and Windows Logs Analysis Report](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment/blob/main/Apache%20and%20Windows%20Logs%20Analysis.pdf)
 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
 
