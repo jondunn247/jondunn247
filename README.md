@@ -1,5 +1,7 @@
-<h1>Hi, I'm Jonathan! <br/>Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>Hi, I'm Jonathan! <br/><h3 align="center">A passionate Cybersecurity profeesional from Florida</h3>
+</a>
+  
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build, Secure, and Protect a Web Application (Azure)</b> 
   - [Build, secure, and protect a cloud application that hosts cyber blog](https://github.com/jondunn247/WebApplicationLab)
