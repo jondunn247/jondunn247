@@ -1,5 +1,4 @@
-<h1>Hi, I'm Jonathan! <br/><h3 align="center">A passionate Cybersecurity profeesional from Florida</h3>
-</a>
+<h1>Hi, I'm Jonathan! <br/> <a> Cybersecurity Professional</a>
   
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
