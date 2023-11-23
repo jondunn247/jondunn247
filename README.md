@@ -10,10 +10,6 @@
   - [Tested Environment Against Simulated Attacks](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment)
   - [Apache and Windows Logs Analysis Report](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment/blob/main/Apache%20and%20Windows%20Logs%20Analysis.pdf)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jondunn247&show_icons=true&theme=radical" />
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondunn247&layout=compact">
-
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <img align="left" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -29,5 +25,10 @@
 <img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=jondunn247&show_icons=true&theme=radical" />
+
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondunn247&layout=compact">
+
 
 
