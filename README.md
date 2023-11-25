@@ -10,7 +10,7 @@
 - <b>Penetration Test On Fictional Organization's Web Application (Linux servers, and Windows servers)</b>
   - [Penetration Test Overview and Report](https://github.com/jondunn247/PenetrationTestReport)
 - <b>Building a Security Monitoring Environment(Splunk)</b>
-  - [Tested Environment with Simulated Attacks and Complete Apache and Windows Logs Analysis Report](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment)
+  - [Tested Environment with Simulated Attacks and Completed Apache and Windows Logs Analysis Report](https://github.com/jondunn247/BuildingSecurityMonitoringEnvironment)
 
 <img align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
