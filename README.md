@@ -5,7 +5,7 @@
 - <b>Build, Secure, and Protect a Web Application (Azure)</b> 
   - [Build, secure, and protect a cloud application that hosts cyber blog](https://github.com/jondunn247/WebApplicationLab)
 - <b>Powershell</b> 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jondunn247/Sentinel-Lab)
   - [Active Directory Bulk User Creation]
 - <b>Penetration Test On Fictional Organization's Web Application (Linux servers, and Windows servers)</b>
   - [Penetration Test Overview and Report](https://github.com/jondunn247/PenetrationTestReport)
